@@ -1,7 +1,7 @@
 Webpack 4 Boilerplate
 ===========
 
-> Plain webpack 4 boilerplate with Babel, SASS and lodash on board
+> Plain webpack 4 boilerplate with Babel, SASS, Handlebars and airbnb style guide on board
 
 ## Requirements
 You only need <b>node.js</b> pre-installed and you’re good to go. 
