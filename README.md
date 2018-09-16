@@ -9,7 +9,7 @@ You only need <b>node.js</b> pre-installed and you’re good to go.
 ## Download
 Download in current directory
 ```sh
-
+$ git clone https://github.com/bayleymauger/webpack-boilerplate.git
 ```
 
 ## Setup
