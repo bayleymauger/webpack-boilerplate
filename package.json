@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/bayleymauger/webpack-boilerplate"
   },
-  "dependencies": {},
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",

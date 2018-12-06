@@ -3,6 +3,7 @@
  */
 
 // Load application styles
+import 'normalize.css';
 import 'styles/index.scss';
 
 // ================================
